@@ -1,5 +1,5 @@
-name = Actions loop test
-description = Support module for action loop testing.
+name = AJAX Test
+description = Support module for AJAX framework tests.
 package = Testing
 version = VERSION
 core = 7.x
