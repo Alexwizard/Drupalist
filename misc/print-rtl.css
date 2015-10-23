@@ -1,0 +1,8 @@
+
+body {
+  direction: rtl;
+}
+/*comment*/
+th {
+  text-align: right;
+}
